@@ -12,7 +12,7 @@ There are a few good ways to make contributions:
 
 1. [Create an issue](https://github.com/hisaac/prime-academy-wikipedia/issues) here on GitHub
 2. Fork the repo and make a pull request with your suggested edits or additions
-3. Message me on the Prime Academy Slack channel
+3. Message me on the [#prime-wikipedia](https://primeacademy.slack.com/messages/prime-wikipedia/) channel on the Prime Academy Slack
 4. [Send me an email](mailto:prime-wikipedia@hisaac.net) with your thoughts and ideas
 
 ## Wikitext Format and Editing
