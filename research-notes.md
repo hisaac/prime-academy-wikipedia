@@ -126,20 +126,20 @@ monthly campus tour and free html css workshop
 
 ## More research
 
-https://www.mprnews.org/story/2016/02/15/tech-workers-training-demand
-https://www.minnpost.com/good-jobs/2016/06/white-house-s-techhire-job-training-initiative-takes-root-twin-cities
-http://www.startribune.com/twin-cities-included-in-obama-s-new-tech-training-program/371583571/
-http://tcbmag.com/News/Recent-News/2016/March/Minnesota-Hires-5-500-Tech-Workers-In-2015-But-Dem
-http://tech.mn/news/2014/12/15/the-nerdery-launches-prime-digital-academy-a-school-for-software-engineers/
-http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/
-https://www.mprnews.org/story/2014/12/15/prime-digital-academy
-http://www.usnews.com/news/stem-solutions/articles/2015/07/20/digital-boot-camp-graduates-break-with-coder-image
-https://www.mhta.org/prime-digital-academy-graduates-inaugural-class/
-http://www.myajc.com/news/national-govt--politics/why-students-are-throwing-tons-money-program-that-won-give-them-college-degree/uWUz5pT4bSORo0uABThnUO/
-http://www.documntary.com/portfolio/prime-digital-academy/
-https://www.mprnews.org/story/2014/12/15/prime-digital-academy
-www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/
-https://www.nerdery.com/press-releases/133
+- https://www.mprnews.org/story/2016/02/15/tech-workers-training-demand
+- https://www.minnpost.com/good-jobs/2016/06/white-house-s-techhire-job-training-initiative-takes-root-twin-cities
+- http://www.startribune.com/twin-cities-included-in-obama-s-new-tech-training-program/371583571/
+- http://tcbmag.com/News/Recent-News/2016/March/Minnesota-Hires-5-500-Tech-Workers-In-2015-But-Dem
+- http://tech.mn/news/2014/12/15/the-nerdery-launches-prime-digital-academy-a-school-for-software-engineers/
+- http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/
+- https://www.mprnews.org/story/2014/12/15/prime-digital-academy
+- http://www.usnews.com/news/stem-solutions/articles/2015/07/20/digital-boot-camp-graduates-break-with-coder-image
+- https://www.mhta.org/prime-digital-academy-graduates-inaugural-class/
+- http://www.myajc.com/news/national-govt--politics/why-students-are-throwing-tons-money-program-that-won-give-them-college-degree/uWUz5pT4bSORo0uABThnUO/
+- http://www.documntary.com/portfolio/prime-digital-academy/
+- https://www.mprnews.org/story/2014/12/15/prime-digital-academy
+- http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/
+- https://www.nerdery.com/press-releases/133
 
 > Minnesota is a leader in technology innovation and education, and Prime Digital Academy melds these worthy pursuits as one.
 >
