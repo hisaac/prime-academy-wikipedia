@@ -2,22 +2,22 @@
 
 I've been wanting to learn how to contribute to Wikipedia for a long time now. I noticed a while back that Prime doesn't yet have a Wikipedia page, so I figured writing one would be a good opportunity to learn about contributing to Wikipedia.
 
-I've been slowly working over this for the past year, but haven't made much progress lately. So, in the spirit of open source and the open web, I figured I'd ask for help from the great community of Prime students, faculty, and alumni.
-
-Obviously I can't stop any of you from posting this on Wikipedia yourselves, but I'd really appreciate the opportunity to do it myself. Once we have a solid chunk of information finished, I'll post it for the rest of the world to see.
+I've been slowly working over this for the past year, but haven't made much progress lately. So, in the spirit of open source and the open web, I figured I'd ask for help from the great community of Prime students, faculty, and alumni. **Obviously I can't stop any of you from posting this on Wikipedia, but I'd really appreciate the opportunity to do it myself.** Once we have a solid chunk of information finished, I'll post it for the rest of the world to see and edit.
 
 ## Contribution Guidelines
 
-There are lots of things I don't know or have forgotten since attending Prime, so any help [filling in the blanks](#information-needed) would be greatly appreciated. There are two ways to make contributions:
+There are lots of things I don't know or have forgotten since attending Prime, so any help filling in the blanks would be greatly appreciated. See the [Information Needed](#information-needed) section below for specific things we need.
 
-1. Make a pull request with your suggested edits or additions
-2. [Create an issue](https://github.com/hisaac/prime-academy-wikipedia/issues)
-3. Message me on the Prime Academy Slack channel (if you're a member there)
-4. [Send me an email](mailto:prime-wikipedia@hisaac.net)
+There are a few good ways to make contributions:
 
-## Wikitext
+1. [Create an issue](https://github.com/hisaac/prime-academy-wikipedia/issues) here on GitHub
+2. Fork the repo and make a pull request with your suggested edits or additions
+3. Message me on the Prime Academy Slack channel
+4. [Send me an email](mailto:prime-wikipedia@hisaac.net) with your thoughts and ideas
 
-The [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) markup format is… confusing. Here are some handy resources for learning how to write it:
+## Wikitext Format
+
+The [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) markup format (a.k.a. *Wikitext*) is… confusing. Here are some handy resources for learning how to write it:
 
 - [Wikipedia's Wikitext guide](https://en.wikipedia.org/wiki/Help:Wikitext) - a long and in-depth guide to the markup
 - [Wikipedia's Cheatsheet](https://en.wikipedia.org/wiki/Help:Cheatsheet) - a more condensed document for quick reference
