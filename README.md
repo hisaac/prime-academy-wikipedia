@@ -2,7 +2,7 @@
 
 I've been wanting to learn how to contribute to Wikipedia for a long time now. I noticed a while back that Prime doesn't yet have a Wikipedia page, so I figured writing one would be a good opportunity to learn about contributing to Wikipedia.
 
-I've been slowly working over this for the past year, but haven't made much progress lately. So, in the spirit of open source and the open web, I figured I'd ask for help from the great community of Prime students, faculty, and alumni. **Obviously I can't stop any of you from posting this on Wikipedia, but I'd really appreciate the opportunity to do it myself.** Once we have a solid chunk of information finished, I'll post it for the rest of the world to see and edit.
+I've been slowly working over this for the past year, but haven't made much progress lately. So, in the spirit of open source and the open web, I figured I'd ask for help from the great community of Prime students, faculty, and alumni. **Obviously I can't stop you from posting this on Wikipedia, but I'd really appreciate the opportunity to do it myself.** Once we have a solid chunk of information finished, I'll post it for the rest of the world to see and edit.
 
 ## Contribution Guidelines
 
