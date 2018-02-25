@@ -322,7 +322,7 @@ From the beginning, cohorts have been named after the letters of the Greek alpha
 	|
 	| 2017-07-14
 	|
-	| "Sigh..."
+	| "Sigh…"
 	|-
 	| Omega
 	|
@@ -484,7 +484,7 @@ For the UX Design program, the cohort names are taken from the [[Telephone_excha
 
 ==Tech Industry Impact==
 
-Prime Academy graduates have gone on to work for many different companies in the Twin Cities, including [[C. H. Robinson|C.H. Robinson]], [[Target Corporation|Target]], [[Best Buy]], '''***MORE***'''
+Prime Academy graduates have gone on to work for many different companies in the Twin Cities, including [[C. H. Robinson|C.H. Robinson]], [[Target Corporation|Target]], [[Best Buy]], '''+++NEED MORE+++'''
 
 ==References==
 
