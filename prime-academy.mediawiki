@@ -200,43 +200,43 @@ From the beginning, cohorts have been named after the letters of the Greek alpha
 	|-
 	| Gamma
 	|
-	|
+	| 2015-10-02
 	|
 	|
 	|-
 	| Delta
 	|
-	|
+	| 2015-10-30
 	|
 	|
 	|-
 	| Epsilon
 	|
-	|
+	| 2015-11-25
 	|
 	|
 	|-
 	| Zeta
 	|
-	|
+	| 2016-01-15
 	|
 	|
 	|-
 	| Eta
 	|
-	|
+	| 2016-02-12
 	|
 	|
 	|-
 	| Theta
 	|
-	|
+	| 2016-03-11
 	|
 	|
 	|-
 	| Iota
 	|
-	|
+	| 2016-04-15
 	|
 	|
 	|-
@@ -254,37 +254,37 @@ From the beginning, cohorts have been named after the letters of the Greek alpha
 	|-
 	| Mu
 	|
-	|
+	| 2016-06-15
 	|
 	|
 	|-
 	| Nu
 	|
-	|
+	| 2016-08-12
 	|
 	|
 	|-
 	| Xi
 	|
-	|
+	| 2016-09-09
 	|
 	|
 	|-
 	| Omicron
 	|
-	|
+	| 2016-10-14
 	|
 	|
 	|-
 	| Pi
 	|
+	| 2016-11-11
 	|
-	|
-	|
+	| "Three Point" "One Four"
 	|-
 	| Rho
 	|
-	|
+	| 2016-12-09
 	|
 	|
 	|-
@@ -296,43 +296,127 @@ From the beginning, cohorts have been named after the letters of the Greek alpha
 	|-
 	| Tau
 	|
-	|
+	| 2017-02-24
 	|
 	|
 	|-
 	| Upsilon
 	|
-	|
+	| 2017-03-24
 	|
 	|
 	|-
 	| Phi
 	|
-	|
-	|
-	|
+	| 2017-04-28
+	| Phire Phiters
+	| "Taco"
 	|-
 	| Chi
 	|
-	|
-	|
-	|
+	| 2017-06-09
+	| Chi-Yaks
+	| "Cakaw!"
 	|-
 	| Psi
 	|
+	| 2017-07-14
 	|
-	|
-	|
+	| "Sigh..."
 	|-
 	| Omega
 	|
-	|
+	| 2017-08-18
 	|
 	|
 	|-
-	| '''+++What's next?+++'''
+	| Antares
+	|
+	| 2017-09-22
 	|
 	|
+	|-
+	| Betelgeuse
+	| 2017-06-12
+	| 2017-10-27
+	| Geesen
+	| "Honk Honk"
+	|-
+	| Canopus
+	|
+	| 2017-12-01
+	|
+	| *Stomp Stomp* "Hiss"
+	|-
+	| Deneb
+	|
+	| 2018-01-19
+	|
+	| "Good Day-neb"
+	|-
+	| Elnath
+	| 2017-09-25
+	| 2018-02-23
+	| Elnathians
+	| "Well good for you."
+	|-
+	| Fomalhaut
+	|
+	| 2018-03-30
+	|
+	|
+	|-
+	| Gacrux
+	|
+	| 2018-04-04
+	|
+	|
+	|-
+	| Hadar
+	|
+	| 2018-06-08
+	|
+	|
+	|-
+	| Kochab
+	|
+	| 2018-07-13
+	|
+	|
+	|-
+	| Menkar
+	|
+	| 2018-08-17
+	|
+	|
+	|-
+	| Nunki
+	|
+	| 2018-09-21
+	|
+	|
+	|-
+	| Polaris
+	|
+	| 2018-10-26
+	|
+	|
+	|-
+	| Rigel
+	|
+	| 2018-11-30
+	|
+	|
+	|-
+	| Sirius
+	|
+	| 2019-01-18
+	|
+	|
+	|-
+	| Vega
+	|
+	| 2019-02-22
 	|
 	|
 |}
@@ -345,25 +429,55 @@ For the UX Design program, the cohort names are taken from the [[Telephone_excha
 	|-
 	! Cohort Name
 	! Start Date
-	! Graduatin Date
+	! Graduation Date
 	! Nickname
 	! Slogan
 	|-
 	| Baldwin
 	|
-	|
+	| 2017-04-14
 	|
 	|
 	|-
 	| Belmont
 	|
-	|
+	| 2017-07-14
 	|
 	|
 	|-
-	| '''+++What's next?+++'''
+	| Churchill
+	|
+	| 2017-10-13
 	|
 	|
+	|-
+	| Alpine
+	|
+	| 2018-01-26
+	|
+	|
+	|-
+	| Colfax
+	|
+	| 2018-04-27
+	|
+	|
+	|-
+	| Broadway
+	|
+	| 2018-07-27
+	|
+	|
+	|-
+	| Atwood
+	|
+	| 2018-10-26
+	|
+	|
+	|-
+	| Cypress
+	|
+	| 2019-02-08
 	|
 	|
 |}
