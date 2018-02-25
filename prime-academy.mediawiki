@@ -1,0 +1,183 @@
+<!--
+	Below is an "Infobox" — markup for the little sidebar box thing that appears on all Wikipedia entries. Most of this information we won't need to add, but I wanted to leave it all there if people can come up with anything to add to the categories.
+
+
+-->
+
+{{Infobox school
+	| name                    = Prime Digital Academy
+	| native_name             =
+	| latin_name              =
+	| logo                    =
+	| logo_size               =
+	| logo_alt                =
+	| seal_image              =
+	| seal_size               =
+	| seal_alt                =
+	| image                   =
+	| image_size              =
+	| alt                     =
+	| caption                 =
+	| mottoes                 = Code Tomorrow, Read/Write/Speak/Teach
+	| motto_translation       =
+	| address                 = 301 4th Ave S., Suite 577
+	| city                    = [[Minneapolis, Minnesota|Minneapolis]]
+	| state                   = [[Minnesota]]
+	| county                  = [[Hennepin County, Minnesota|Hennepin County]]
+	| zipcode                 = 55415
+	| country                 = [[United States]]
+	| coordinates             = {{Coord|44.978069|-93.263490}} <!-- {{Coord|LAT|LON|display=inline,title}} -->
+	| coordinates_footnotes   =
+	| pushpin_map             =
+	| pushpin_image           =
+	| pushpin_mapsize         =
+	| pushpin_map_alt         =
+	| pushpin_map_caption     =
+	| pushpin_label           =
+	| pushpin_label_position  =
+	| other_name              = Prime Academy, Prime
+	| schooltype              =
+	| fundingtype             =
+	| type                    = [[Coding bootcamp|Coding Bootcamp]]
+	| established             = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
+	| founded                 =
+	| opened                  =
+	| founder                 = Mark Hurlburt <!-- or | founders = -->
+	| status                  =
+	| closed                  =
+	| locale                  =
+	| school_board            =
+	| district                =
+	| us_nces_district_id     =
+	| LEA                     =
+	| educational_authority   = <!-- or | authority = -->
+	| category                = <!-- use | category_label = to override the default label -->
+	| oversight               = <!-- use | oversight_label = to override the default label -->
+	| authorizer              =
+	| superintendent          =
+	| trustee                 =
+	| specialist              = <!-- or | specialists = -->
+	| session                 =
+	| number                  =
+	| school_code             =
+	| MOE                     =
+	| ofsted                  =
+	| ceeb                    =
+	| us_nces_school_id       =
+	| president               =
+	| chair                   = <!-- use | chair_label = to override the default label -->
+	| chairman                = <!-- use | chairman_label = to override the default label -->
+	| chairperson             = <!-- use | chairperson_label = to override the default label -->
+	| dean                    =
+	| administrator           =
+	| rector                  =
+	| director                =
+	| principal               = <!-- use | principal_label = to override the default label -->
+	| campus_director         =
+	| headmistress            =
+	| headmaster              =
+	| head_of_school          =
+	| head_teacher            =
+	| executive_headteacher   =
+	| acting_headteacher      =
+	| head                    = <!-- use | head_name = to override the default label -->
+	| officer_in_charge       =
+	| chaplain                =
+	| staff                   =
+	| faculty                 =
+	| teaching_staff          =
+	| employees               =
+	| key_people              =
+	| grades                  = <!-- use | grades_label = to override the default label -->
+	| years                   =
+	| years_taught            = <!-- use | nursery_years_taught =, | primary_years_taught =, | secondary_years_taught = for additional information -->
+	| enrollment              = <!-- or | enrolment = -->
+	| enrollment_as_of        = <!-- or | enrolment_as_of = -->
+	| average_class_size      = 12
+	| classes_offered         = Full-Stack Software Development, User Experience Design
+	| language                = English, JavaScript, HTML, CSS, SQL
+	| classrooms              = 4
+	| campuses                = 1
+	| campus                  =
+	| campus_size             =
+	| area                    =
+	| campus_type             =
+	| student_union           = <!-- use | student_union_label = to override the default label -->
+	| colors                  = <!-- or | colours = -->
+	| school_colors           = <!-- or | school_colours = -->
+	| slogan                  =
+	| sports                  =
+	| nickname                =
+	| teams                   = <!-- use | teams_label = to override the default label -->
+	| team_name               =
+	| rival                   = <!-- or | rivals = -->
+	| accreditation           = <!-- or | accreditations = -->
+	| ranking                 =
+	| USNWR_ranking           =
+	| national_ranking        =
+	| bar_pass_rate           =
+	| school_roll             =
+	| decile                  =
+	| fees                    =
+	| annual_tuition          =
+	| tuition                 =
+	| revenue                 =
+	| communities             =
+	| feeder_schools          =
+	| feeder_to               =
+	| graduates               =
+	| graduates_year          =
+	| affiliation             = <!-- or | affiliations = -->
+	| alumni                  =
+	| nobel_laureates         =
+	| information             = <!-- do not enter phone numbers or email addresses -->
+	| website                 = {{URL|primeacademy.io}}
+	| footnotes               =
+	| picture                 =
+	| picture_caption         =
+	| picture2                =
+	| picture_caption2        =
+	| lastupdate              = <!-- {{subst:Date}} or {{subst:Date|2=mdy}} -->
+}}
+
+'''Prime Digital Academy''' (often referred to as Prime Academy, or simply Prime) is a [[computer programming]] and [[user experience design]] school, founded by Mark Hurlburt +++AND MORE+++ in +++YEAR+++. Prime's campus is located in the [[Minneapolis Grain Exchange]] building ind Downtown [[Minneapolis]]. Before that, the campus was located in [[Bloomington, Minnesota|Bloomington, MN]].
+
+==History==
+
+Prime was founded in +++YEAR+++ to meet a need within the industry. Prime's founders worked for [[The Nerdery]] — a software development house in Bloomington, MN — and were having trouble finding qualified talent within the Twin Cities area. The idea of creating a school was discussed as early as +++YEAR+++, and actual work toward opening the school began in +++YEAR+++.
+
+==Courses==
+
+===Full-Stack Web Development===
+
+Prime began by offering courses in full-stack web development. The curriculum was and still is tailored and adapted to match the industry's current needs.
+
+===UX Design===
+
+In 2017, Prime started offering a course track in UX Design. This pilot program was led by Ange Wang — an already experienced UX designer and educator — and started with a class of +++AMOUNT+++ students.
+
+A space was rented nextdoor to [[The Nerdery]].
+
+==Cohort Naming Schemes==
+
+The full-stack web development and UX design programs follow different naming schemes.
+
+===Full-Stack Web Development Naming Scheme===
+
+From the beginning, cohorts have been named after the letters of the Greek alphabet (starting with Beta). As of this writing, the most recent cohort is +++COHORT+++. Cohorts are now being named after stars.
+
+===UX Design Naming Scheme===
+
+For the UX Design program, the cohort names are taken from the [[Telephone_exchange_names#Standardization|Telephone exchange name standardization list]] created by AT&T in 1955. Currently known cohort names are as follows:
+
+* Baldwin
+
+==References==
+
+{{reflist}}
+
+==External Links==
+
+* [http://primeacademy.io Prime Academy's website]
+
+[[Category:Coding schools]]
