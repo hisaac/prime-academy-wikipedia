@@ -1,7 +1,5 @@
 <!--
 	Below is an "Infobox" — markup for the little sidebar box thing that appears on all Wikipedia entries. Most of this information we won't need to add, but I wanted to leave it all there if people can come up with anything to add to the categories.
-
-
 -->
 
 {{Infobox school
@@ -38,7 +36,7 @@
 	| other_name              = Prime Academy, Prime
 	| schooltype              =
 	| fundingtype             =
-	| type                    = [[Coding bootcamp|Coding Bootcamp]]
+	| type                    = [[Coding Bootcamp]]
 	| established             = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
 	| founded                 =
 	| opened                  =
@@ -140,11 +138,11 @@
 	| lastupdate              = <!-- {{subst:Date}} or {{subst:Date|2=mdy}} -->
 }}
 
-'''Prime Digital Academy''' (often referred to as Prime Academy, or simply Prime) is a [[computer programming]] and [[user experience design]] school, founded by Mark Hurlburt +++AND MORE+++ in +++YEAR+++. Prime's campus is located in the [[Minneapolis Grain Exchange]] building ind Downtown [[Minneapolis]]. Before that, the campus was located in [[Bloomington, Minnesota|Bloomington, MN]].
+'''Prime Digital Academy''' (often referred to as Prime Academy, or simply Prime) is a [[computer programming]] and [[user experience design]] school, founded by Mark Hurlburt '''+++and more?+++''' in '''+++YEAR+++'''. Prime's campus is located in the [[Minneapolis Grain Exchange]] building in Downtown [[Minneapolis]]. Previously, the campus was located in [[Bloomington, Minnesota|Bloomington, MN]].
 
 ==History==
 
-Prime was founded in +++YEAR+++ to meet a need within the industry. Prime's founders worked for [[The Nerdery]] — a software development house in Bloomington, MN — and were having trouble finding qualified talent within the Twin Cities area. The idea of creating a school was discussed as early as +++YEAR+++, and actual work toward opening the school began in +++YEAR+++.
+Prime was founded in '''+++YEAR+++'''' to meet a need within the industry. Prime's founders worked for [[The Nerdery]] — a software development house in Bloomington, MN — and were having trouble finding qualified talent within the Twin Cities area. The idea of creating a school was discussed as early as '''+++YEAR+++''', and actual work toward opening the school began in '''+++YEAR+++'''.
 
 ==Courses==
 
@@ -158,19 +156,210 @@ In 2017, Prime started offering a course track in UX Design. This pilot program 
 
 A space was rented nextdoor to [[The Nerdery]].
 
-==Cohort Naming Schemes==
+===Seminars===
+
+In 2018, Prime began offering short seminars, currently offered only to alumni.
+
+Seminars currently completed or planned:
+
+- Game Design with Unity
+- iOS
+
+==Cohort Names==
 
 The full-stack web development and UX design programs follow different naming schemes.
 
 ===Full-Stack Web Development Naming Scheme===
 
-From the beginning, cohorts have been named after the letters of the Greek alphabet (starting with Beta). As of this writing, the most recent cohort is +++COHORT+++. Cohorts are now being named after stars.
+From the beginning, cohorts have been named after the letters of the Greek alphabet (starting with Beta). After running out of Greek letters to use, naming switched to celestial bodies.
+
+{| class=wikitable
+	|-
+	! Cohort Name
+	! Start Date
+	! Graduation Date
+	! Nickname
+	! Slogan
+	|-
+	| Beta
+	|
+	|
+	|
+	|
+	|-
+	| Gamma
+	|
+	|
+	|
+	|
+	|-
+	| Delta
+	|
+	|
+	|
+	|
+	|-
+	| Epsilon
+	|
+	|
+	|
+	|
+	|-
+	| Zeta
+	|
+	|
+	|
+	|
+	|-
+	| Eta
+	|
+	|
+	|
+	|
+	|-
+	| Theta
+	|
+	|
+	|
+	|
+	|-
+	| Iota
+	|
+	|
+	|
+	|
+	|-
+	| Kappa
+	|
+	|
+	|
+	|
+	|-
+	| Lambda
+	|
+	|
+	|
+	|
+	|-
+	| Mu
+	|
+	|
+	|
+	|
+	|-
+	| Nu
+	|
+	|
+	|
+	|
+	|-
+	| Xi
+	|
+	|
+	|
+	|
+	|-
+	| Omicron
+	|
+	|
+	|
+	|
+	|-
+	| Pi
+	|
+	|
+	|
+	|
+	|-
+	| Rho
+	|
+	|
+	|
+	|
+	|-
+	| Sigma
+	| 2016-09-12
+	| 2017-01-27
+	| Sigmanauts
+	| "Potato"
+	|-
+	| Tau
+	|
+	|
+	|
+	|
+	|-
+	| Upsilon
+	|
+	|
+	|
+	|
+	|-
+	| Phi
+	|
+	|
+	|
+	|
+	|-
+	| Chi
+	|
+	|
+	|
+	|
+	|-
+	| Psi
+	|
+	|
+	|
+	|
+	|-
+	| Omega
+	|
+	|
+	|
+	|
+	|-
+	| '''+++What's next?+++'''
+	|
+	|
+	|
+	|
+|}
 
 ===UX Design Naming Scheme===
 
-For the UX Design program, the cohort names are taken from the [[Telephone_exchange_names#Standardization|Telephone exchange name standardization list]] created by AT&T in 1955. Currently known cohort names are as follows:
+For the UX Design program, the cohort names are taken from the [[Telephone_exchange_names#Standardization|Telephone exchange name standardization list]] created by AT&T in 1955. Currently known cohort names are as follows.
 
-* Baldwin
+{| class=wikitable
+	|-
+	! Cohort Name
+	! Start Date
+	! Graduatin Date
+	! Nickname
+	! Slogan
+	|-
+	| Baldwin
+	|
+	|
+	|
+	|
+	|-
+	| Belmont
+	|
+	|
+	|
+	|
+	|-
+	| '''+++What's next?+++'''
+	|
+	|
+	|
+	|
+|}
+
+==Tech Industry Impact==
+
+Prime Academy graduates have gone on to work for many different companies in the Twin Cities, including [[C. H. Robinson|C.H. Robinson]], [[Target Corporation|Target]], [[Best Buy]], '''***MORE***'''
 
 ==References==
 

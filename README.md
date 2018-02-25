@@ -15,7 +15,9 @@ There are a few good ways to make contributions:
 3. Message me on the Prime Academy Slack channel
 4. [Send me an email](mailto:prime-wikipedia@hisaac.net) with your thoughts and ideas
 
-## Wikitext Format
+## Wikitext Format and Editing
+
+GitHub provides some basic previewing of `.mediawiki` documents, but leaves much out (no tables for instance). There aren't any great ways to preview your edits, but Wikipedia does offer an OK one: the [Sandbox](https://en.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&action=edit&oldid=596189391).
 
 The [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) markup format (a.k.a. *Wikitext*) is… confusing. Here are some handy resources for learning how to write it:
 
@@ -28,7 +30,11 @@ The [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) markup format (a.k.a. 
 
 - Names of founders (Was it just Mark? I can't remember.)
 - Significant dates
-- Names of cohorts
+	- Date of incorporation (or whatever you call it when you officially start a school)
+	- Date of first class start
+	- Date of first class graduation
+	- Date of move to downtown campus
+- Cohort information - Names, dates of attendance, nicknames, slogans
 - High resolution images of the old campus, and the new one
 - High resolution images of the Prime logo
 - Links to references that talk about Prime (the Wikipedia editors will delete the page if we don't have credible sources)
