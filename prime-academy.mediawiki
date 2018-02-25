@@ -152,7 +152,7 @@ Prime began by offering courses in full-stack web development. The curriculum wa
 
 ===UX Design===
 
-In 2017, Prime started offering a course track in UX Design. This pilot program was led by Ange Wang — an already experienced UX designer and educator — and started with a class of +++AMOUNT+++ students.
+In January of 2017, Prime started offering a new course track in User Experience Design (UX). This pilot program was led by Ange Wang — an already experienced UX designer and educator — and started with a class of +++AMOUNT+++ students.
 
 A space was rented nextdoor to [[The Nerdery]].
 
@@ -164,6 +164,17 @@ Seminars currently completed or planned:
 
 - Game Design with Unity
 - iOS
+
+===Curriculum Format===
+
+The general curriculum format for both the full-stack development and UX programs is:
+
+# '''Tier 1''' ''Prework'' - 6 weeks of online study using online tutorials and videos
+# '''Tier 2''' ''Boot'' - 6 weeks of lecture, and solo and small group exercises
+# '''Tier 3''' ''Build'' - 6 weeks of work on a solo project, a group project, and job interviews
+## 2 weeks on a solo project of the student's choosing
+## 3–4 weeks on a group project, working for real businesses to develop and design a software or UX product
+## Interviews with real tech recruiters and tech companies in the Twin Cities
 
 ==Cohort Names==
 

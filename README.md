@@ -39,3 +39,5 @@ The [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) markup format (a.k.a. 
 - High resolution images of the Prime logo
 - Links to references that talk about Prime (the Wikipedia editors will delete the page if we don't have credible sources)
 - Literally anything else you can think of that would be useful on a Wikipedia page
+
+You can check out some [research notes](./research-notes.md) I took while listning to Manu Garcia's [*New Developer Podcast*](http://newdeveloperpodcast.com) interviews with Mark Hurlburt ([episode 7](http://newdeveloperpodcast.com/ndp-s01e07/) and [episode 8](http://newdeveloperpodcast.com/ndp-s01e08/)).
