@@ -4,145 +4,69 @@
 
 {{Infobox school
 	| name                    = Prime Digital Academy
-	| native_name             =
-	| latin_name              =
 	| logo                    =
 	| logo_size               =
 	| logo_alt                =
-	| seal_image              =
-	| seal_size               =
-	| seal_alt                =
 	| image                   =
 	| image_size              =
 	| alt                     =
 	| caption                 =
 	| mottoes                 = Code Tomorrow, Read/Write/Speak/Teach
-	| motto_translation       =
 	| address                 = 301 4th Ave S., Suite 577
-	| city                    = [[Minneapolis, Minnesota|Minneapolis]]
-	| state                   = [[Minnesota]]
+	| city                    = [[Minneapolis]]
 	| county                  = [[Hennepin County, Minnesota|Hennepin County]]
+	| state                   = [[Minnesota]]
 	| zipcode                 = 55415
 	| country                 = [[United States]]
-	| coordinates             = {{Coord|44.978069|-93.263490}} <!-- {{Coord|LAT|LON|display=inline,title}} -->
-	| coordinates_footnotes   =
-	| pushpin_map             =
-	| pushpin_image           =
-	| pushpin_mapsize         =
-	| pushpin_map_alt         =
-	| pushpin_map_caption     =
-	| pushpin_label           =
-	| pushpin_label_position  =
+	| coordinates             = {{Coord|44.978069|-93.263490|display=inline,title}}
 	| other_name              = Prime Academy, Prime
-	| schooltype              =
-	| fundingtype             =
 	| type                    = [[Coding Bootcamp]]
 	| established             = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
 	| founded                 =
 	| opened                  =
-	| founder                 = Mark Hurlburt <!-- or | founders = -->
-	| status                  =
-	| closed                  =
-	| locale                  =
-	| school_board            =
-	| district                =
-	| us_nces_district_id     =
-	| LEA                     =
-	| educational_authority   = <!-- or | authority = -->
-	| category                = <!-- use | category_label = to override the default label -->
-	| oversight               = <!-- use | oversight_label = to override the default label -->
-	| authorizer              =
-	| superintendent          =
-	| trustee                 =
-	| specialist              = <!-- or | specialists = -->
-	| session                 =
-	| number                  =
-	| school_code             =
-	| MOE                     =
-	| ofsted                  =
-	| ceeb                    =
-	| us_nces_school_id       =
+	| founder                 = Mark Hurlburt
+	| status                  = Open
 	| president               =
 	| chair                   = <!-- use | chair_label = to override the default label -->
 	| chairman                = <!-- use | chairman_label = to override the default label -->
 	| chairperson             = <!-- use | chairperson_label = to override the default label -->
-	| dean                    =
 	| administrator           =
-	| rector                  =
 	| director                =
 	| principal               = <!-- use | principal_label = to override the default label -->
 	| campus_director         =
-	| headmistress            =
-	| headmaster              =
-	| head_of_school          =
-	| head_teacher            =
-	| executive_headteacher   =
-	| acting_headteacher      =
-	| head                    = <!-- use | head_name = to override the default label -->
-	| officer_in_charge       =
-	| chaplain                =
-	| staff                   =
-	| faculty                 =
-	| teaching_staff          =
-	| employees               =
+	| head_teacher            = Scott Bromander, Ange Wang
+	| staff                   = <!-- number of staff -->
+	| faculty                 = <!-- number of faculty -->
+	| teaching_staff          = <!-- number of teaching_staff -->
+	| employees               = <!-- number of employees -->
 	| key_people              =
-	| grades                  = <!-- use | grades_label = to override the default label -->
-	| years                   =
-	| years_taught            = <!-- use | nursery_years_taught =, | primary_years_taught =, | secondary_years_taught = for additional information -->
-	| enrollment              = <!-- or | enrolment = -->
-	| enrollment_as_of        = <!-- or | enrolment_as_of = -->
+	| enrollment              = <!-- or | enrolment = or | students = or | pupils = -->
+	| enrollment_as_of        = <!-- or | enrolment_as_of = or | students_as_of = or | pupils_as_of = -->
 	| average_class_size      = 12
 	| classes_offered         = Full-Stack Software Development, User Experience Design
-	| language                = English, JavaScript, HTML, CSS, SQL
+	| language                = English
 	| classrooms              = 4
-	| campuses                = 1
-	| campus                  =
-	| campus_size             =
-	| area                    =
-	| campus_type             =
-	| student_union           = <!-- use | student_union_label = to override the default label -->
-	| colors                  = <!-- or | colours = -->
-	| school_colors           = <!-- or | school_colours = -->
-	| slogan                  =
-	| sports                  =
-	| nickname                =
-	| teams                   = <!-- use | teams_label = to override the default label -->
-	| team_name               =
-	| rival                   = <!-- or | rivals = -->
-	| accreditation           = <!-- or | accreditations = -->
-	| ranking                 =
-	| USNWR_ranking           =
-	| national_ranking        =
-	| bar_pass_rate           =
-	| school_roll             =
-	| decile                  =
-	| fees                    =
-	| annual_tuition          =
-	| tuition                 =
-	| revenue                 =
-	| communities             =
-	| feeder_schools          =
-	| feeder_to               =
-	| graduates               =
-	| graduates_year          =
-	| affiliation             = <!-- or | affiliations = -->
-	| alumni                  =
-	| nobel_laureates         =
-	| information             = <!-- do not enter phone numbers or email addresses -->
-	| website                 = {{URL|primeacademy.io}}
-	| footnotes               =
+	| campuses                = [[Minneapolis]], [[Kansas City]]
+	| campus_type             = Urban
+	| colors                  = {{color box|#07aa9e}}
+	| tuition                 = $16,000
+	| communities             = [[Minneapolis–Saint_Paul|Minneapolis–Saint Paul metropolitan area]], [[Kansas City metropolitan area]]
+	| website                 = {{URL|https://primeacademy.io}}
 	| picture                 =
 	| picture_caption         =
 	| picture2                =
 	| picture_caption2        =
-	| lastupdate              = <!-- {{subst:Date}} or {{subst:Date|2=mdy}} -->
 }}
 
 '''Prime Digital Academy''' (often referred to as Prime Academy, or simply Prime) is a [[computer programming]] and [[user experience design]] school, founded by Mark Hurlburt '''+++and more?+++''' in '''+++YEAR+++'''. Prime's campus is located in the [[Minneapolis Grain Exchange]] building in Downtown [[Minneapolis]]. Previously, the campus was located in [[Bloomington, Minnesota|Bloomington, MN]].
 
 ==History==
 
-Prime was founded in '''+++YEAR+++'''' to meet a need within the industry. Prime's founders worked for [[The Nerdery]] — a software development house in Bloomington, MN — and were having trouble finding qualified talent within the Twin Cities area. The idea of creating a school was discussed as early as '''+++YEAR+++''', and actual work toward opening the school began in '''+++YEAR+++'''.
+Prime was founded in '''+++YEAR+++'''' to meet a need within the software development industry. Prime's founders worked for The Nerdery — a software development company in [[Bloomington, MN]] — and were having trouble finding qualified talent within the Twin Cities area. The idea of creating a school was discussed as early as '''+++YEAR+++''', and actual work toward opening the school began in '''+++YEAR+++'''.
+
+In '''YEAR''', the campus was moved from its original Bloomington location to Downtown Minneapolis.
+
+In 2018, Prime opened its second campus in Kansas City, led by Scott Bromander, Prime's Lead Instructor.
 
 ==Courses==
 
@@ -150,11 +74,11 @@ Prime was founded in '''+++YEAR+++'''' to meet a need within the industry. Prime
 
 Prime began by offering courses in full-stack web development. The curriculum was and still is tailored and adapted to match the industry's current needs.
 
-===UX Design===
+===User Experience Design===
 
-In January of 2017, Prime started offering a new course track in User Experience Design (UX). This pilot program was led by Ange Wang — an already experienced UX designer and educator — and started with a class of +++AMOUNT+++ students.
+In January of 2017, Prime started offering a new course track in User Experience (UX) Design. This pilot program was led by Ange Wang — an already experienced UX designer and educator — and started with a class of +++AMOUNT+++ students.
 
-A space was rented nextdoor to [[The Nerdery]].
+A space was rented nextdoor to The Nerdery.
 
 ===Seminars===
 
